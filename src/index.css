@@ -1,0 +1,87 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  align-items: center;
+  width:100%;
+  height:100vh;
+  box-sizing: border-box;
+  margin:0px;
+  padding:0px;
+}
+
+.DivGeneral{
+  margin:auto;
+  width:100%;
+  padding:10px;
+  box-sizing: border-box;
+}
+.form{
+  width:90%;
+  margin:auto;
+  margin-bottom: 50px;
+}
+.headerIcon{
+  width:100%;
+  padding:10px;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+}
+.headerIcon img{
+  width:50%;
+  object-fit: auto;
+}
+.inputsDivs{
+  width:100%;
+  margin:10px 0px;
+}
+.inputsDivs label{
+  font-size: 14px;
+  color: #666;
+}
+.inputsDivs input{
+  width:100%;
+  border-radius: 20px;
+  border:1px solid #ccc;
+  padding:10px;
+  box-sizing: border-box;
+  outline: 0px;
+  margin:10px 0px;
+}
+.inputsDivs button{
+  border-radius: 20px;
+  width:100%;
+  padding:15px 10px;
+  box-sizing: border-box;
+  background-color: #026392;
+  border:1px solid #026392;
+
+}
+.inputsDivs span{
+  font-size: 13px;
+  color: red;
+}
+.inputsDivs button span{
+  font-size: 12px;
+  color: white;
+}
+.exito{
+  width:90%;
+  margin: auto;
+  text-align: center;
+  margin-top:100px;
+}
+.img{
+  width:90%;
+  margin:auto;
+  text-align: center;
+
+}
+.img img{
+  width:60%;
+}
+
+.exito h1{
+  font-weight: 400;
+  font-size: 32px;
+}
